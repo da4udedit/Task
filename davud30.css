@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background: #eaf7f8;
+    transition: 0.4s;
+}
+
+.box {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background: white;
+    border: 3px dashed #e85d75;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h1 {
+    color: #168bd1;
+}
+
+input {
+    padding: 15px;
+    width: 60%;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+button {
+    padding: 15px 25px;
+    margin: 10px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#nameButton {
+    background: #e62e51;
+    color: white;
+}
+
+#redButton {
+    background: #e62e51;
+    color: white;
+}
+
+#greenButton {
+    background: #159447;
+    color: white;
+}
+
+#yellowButton {
+    background: #f3c400;
+}
+
+#blueButton {
+    background: #25abc5;
+    color: white;
+}
+
+#emojiButton {
+    background: #28b6d1;
+    color: white;
+}
+
+#emoji {
+    font-size: 100px;
+    margin: 20px;
+}
+
+#message {
+    color: #27794e;
+}
